@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Places Data -->
+
+    <string-array name="places_names">
+        <item>National Stadium</item>
+        <item>3rd Mainland Bridge</item>
+        <item>Alaba Intl Market</item>
+        <item>Ikeja City Mall</item>
+        <item>Tafawa Balewa Square</item>
+    </string-array>
+
+    <string-array name="places_addresses">
+        <item>1 Muyideen Close</item>
+        <item>44 Ade Crescent</item>
+        <item>Plot 14 VGC</item>
+        <item>Chevron drive, Lekki</item>
+        <item>Adeniyi joneas, Ikeja</item>
+    </string-array>
+
+
+
+    <string-array name="places_wiki_urls">
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+    </string-array>
+
+    <string-array name="places_images">
+        <item>@drawable/pyramids</item>
+        <item>@drawable/moez_street</item>
+        <item>@drawable/mohammed_ali_mosque</item>
+        <item>@drawable/egyptian_museum</item>
+        <item>@drawable/khan_el_khalili</item>
+    </string-array>
+
+    <!--Companies Data -->
+
+    <string-array name="companies_names">
+        <item>BlueDay Industries</item>
+        <item>Unilever Plc</item>
+        <item>Kewalram Nig</item>
+        <item>Brainiacs</item>
+        <item>Diamond bank</item>
+    </string-array>
+
+    <string-array name="companies_addresses">
+        <item>Ibeju Lekki</item>
+        <item>Oregun, Lagos</item>
+        <item>Isolo, Lagos</item>
+        <item>Chevron drive, Lekki</item>
+        <item>Adeniyi joneas, Ikeja</item>
+    </string-array>
+
+
+
+    <string-array name="companies_wiki_urls">
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+    </string-array>
+
+    <string-array name="companies_images">
+        <item>@drawable/pyramids_plaza</item>
+        <item>@drawable/merryland</item>
+        <item>@drawable/mohammed_ali_mosque</item>
+        <item>@drawable/egyptian_museum</item>
+        <item>@drawable/khan_el_khalili</item>
+    </string-array>
+
+
+
+    <!-- Hotels Data -->
+
+    <string-array name="hotels_names">
+        <item>Transcorp Hiltons </item>
+        <item>Eko Hotel</item>
+        <item>Sheraton Hotel</item>
+        <item>De Meros Hotel</item>
+        <item>Oriental Hotel</item>
+    </string-array>
+
+    <string-array name="hotels_addresses">
+        <item>Plot 14 VGC</item>
+        <item>Chevron drive, Lekki</item>
+        <item>1 Muyideen Close</item>
+        <item>44 Ade Crescent</item>
+        <item>Adeniyi joneas, Ikeja</item>
+    </string-array>
+
+    <string-array name="hotels_images">
+        <item>@drawable/kempinski</item>
+        <item>@drawable/ramses_hilton</item>
+        <item>@drawable/pyramids_plaza</item>
+        <item>@drawable/novotel</item>
+        <item>@drawable/four_seasons</item>
+    </string-array>
+
+    <string-array name="hotels_wiki_urls">
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+    </string-array>
+
+
+    <!-- Restuarant Data -->
+
+    <string-array name="restuarant_names">
+        <item>KFC</item>
+        <item>The Place</item>
+        <item>Chicken Republi</item>
+        <item>Mega Chicken</item>
+        <item>Mr Biggs</item>
+    </string-array>
+
+    <string-array name="restuarant_addresses">
+        <item>Plot 14 VGC</item>
+        <item>Chevron drive, Lekki</item>
+        <item>1 Muyideen Close</item>
+        <item>44 Ade Crescent</item>
+        <item>Adeniyi joneas, Ikeja</item>
+    </string-array>
+
+
+    <array name="restuarant_images">
+        <item>@drawable/azhar_park</item>
+        <item>@drawable/citadel</item>
+        <item>@drawable/fish_market</item>
+        <item>@drawable/merryland</item>
+        <item>@drawable/ibn_tulun_mosque</item>
+    </array>
+
+    <string-array name="restuarant_wiki_urls">
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+    </string-array>
+
+
+</resources>

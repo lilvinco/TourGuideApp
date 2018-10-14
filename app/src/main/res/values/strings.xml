@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location_name">Lagos, Nigeria</string>
+    <string name="places_fragment_label">Places</string>
+    <string name="restuarants_fragment_label">Restaurants</string>
+    <string name="hotels_fragment_label">Hotels</string>
+    <string name="location_wiki_url_not_provided_text">No link available</string>
+    <string name="location_info_not_available">No information available</string>
+     <string name="companies_fragment_label">Companies</string>
+</resources>
